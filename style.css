@@ -147,6 +147,9 @@ opacity: .7;
 padding-top: 5px;
 }
 @media screen and (max-width:382px)  {
+    *{
+        overflow:hidden;
+    }
     body{
         overflow: hidden;
         width: 100%;
